@@ -10,7 +10,7 @@ This guide makes learning Java easy by explaining concepts with direct compariso
 
 - No fluff or jargon, just straightforward explanations  
 - Designed for programmers familiar with C++ or Python  
-- Written by someone who made the switch themselves  
+- Written by me who want the switch of Java  
 - Focuses on understanding, not memorization  
 
 ## Code Style
