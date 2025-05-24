@@ -17,7 +17,7 @@ Please upgrade to a supported version to receive security patches and fixes.
 
 If you discover a security vulnerability, please report it responsibly:
 
-- **Report to:** [security@yourdomain.com] (replace with your email)  
+- **Report to:** [darkeyelinux@gmail.com] (
 - **Acknowledgement:** Expect a response within 48 hours.  
 - **Process:**  
   1. We will review and verify the vulnerability.  
