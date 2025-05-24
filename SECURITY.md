@@ -2,20 +2,28 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We provide security updates for the following versions of this project:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version  | Supported           |
+| -------- | ------------------- |
+| 5.1.x    | ✅ Supported        |
+| 5.0.x    | ✅ Supported        |
+| 4.0.x    | ✅ Supported        |
+| Below 4.0| ✅ Supported        |
+
+Please upgrade to a supported version to receive security patches and fixes.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability, please report it responsibly:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- **Report to:** [security@yourdomain.com] (replace with your email)  
+- **Acknowledgement:** Expect a response within 48 hours.  
+- **Process:**  
+  1. We will review and verify the vulnerability.  
+  2. We work to fix it promptly.  
+  3. We will notify you when the issue is resolved.  
+- **Confidentiality:** Keep details private until the fix is released.  
+- **Disclosure:** After resolution, the issue will be publicly disclosed with credit to the reporter (unless anonymity requested).
+
+Thank you for helping keep the project secure!
